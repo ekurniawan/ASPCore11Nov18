@@ -10,6 +10,7 @@ namespace SampleASPCore.Controllers
 {
     public class HomeController : Controller
     {
+        //sample
         public IActionResult Index()
         {
             return View();
